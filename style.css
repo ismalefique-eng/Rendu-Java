@@ -1,0 +1,59 @@
+header{
+    background-color: #2b2642;
+    border-radius: 10px;
+   
+}
+
+h1{
+    color: #d24283;
+    font-size: 50px;
+    text-align: center;
+    background-color: #2b2642;
+}
+.Texte_intro{
+    color: #d24283;
+    font-size: 20px;
+    text-align: center;
+    background-color: #2b2642;
+    
+}
+
+body{
+    background-image:url(Briar_Teaser_03.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Image_Briar{
+    margin-top: 25px;
+    margin-left: 575px;
+    border-radius: 10px;
+}
+
+.Lienspell{
+    color: #d24283;
+}
+
+.BriarSkins{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    float: right;
+}
+
+.BriarSkinsModels{
+    display: flex;
+    float: right;
+}
+
+p {
+    color: #d24283;
+    font-size: 35px;
+    background-color: #2b2642;
+}
+
+lightmode{
+    background-color: #d4d9bd;
+    color: #2dbd7c ;
+
+}
